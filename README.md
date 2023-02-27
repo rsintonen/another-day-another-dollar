@@ -6,3 +6,4 @@ week1 day3
 week1 day4
 week1 day5 \n
 week1 day6 n
+week1 day7 \n
