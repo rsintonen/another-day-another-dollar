@@ -1,2 +1,3 @@
 readme loodud (githubis)
 test week1
+week2 day1
